@@ -1,6 +1,6 @@
 video link: https://1drv.ms/v/c/66ca3a0d2e4dcdf5/EeOO7iBiulFPlZWQnyKvM_EB3t425Ai29stiMUrdUYh1Xg?e=CzChBk
 
- Doctor Appointment System
+ Doctor Appointment System (React App)
 📌 Proje Açıklaması
 Doctor Appointment System, hastaların doktorlarla randevu almasını, doktorların randevu yönetmesini ve hastaların doktorları değerlendirmesini sağlayan bir sistemdir. Bu sistem, doktorları kayıt altına alır, hastaların randevu almasını sağlar ve kullanıcı deneyimini artırmak için doktor değerlendirmeleri sunar.
 
